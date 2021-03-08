@@ -69,3 +69,6 @@ N_P : N_P * unit_matrix for P matrix
 If the code is slow, you can annotate out the 'Graphical Plot & Dynamic Plot'. you will see only graph.
 
 # Closing
+If you have better idea or find error, please let me know.
+
+But, I'm not good at english, so I will be grateful if you explain it easily.
