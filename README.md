@@ -38,9 +38,9 @@ I recommend you to rotate it several times. (It's good for magnetometer compensa
 **2. The data must look like this ↓**
 
 
-'AccX  AccY  AccZ  GyroX  GyroY  GyroZ  MagX  MagY  MagZ time'       for k=1
+'AccX  AccY  AccZ  GyroX  GyroY  GyroZ  MagX  MagY  MagZ time'         for k=1
 
-'AccX  AccY  AccZ  GyroX  GyroY  GyroZ  MagX  MagY  MagZ time'       for k=2
+'AccX  AccY  AccZ  GyroX  GyroY  GyroZ  MagX  MagY  MagZ time'         for k=2
 
 .
 
