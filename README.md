@@ -29,9 +29,9 @@ EKF : Main EKF function
 sampledata : sampledata I used
 
 # How to use
-1. Get data from IMU sensor. You should stay put IMU sensor for the first 5 seconds(It's for gyro compensation), then rotate it. I recommend you to rotate it several times. (It's good for magnetometer compensation.)
+**1. Get data from IMU sensor. You should stay put IMU sensor for the first 5 seconds(It's for gyro compensation), then rotate it. I recommend you to rotate it several times. (It's good for magnetometer compensation.)
 2. The data must be 
-
+**
 'AccX  AccY  AccZ  GyroX  GyroY  GyroZ  MagX  MagY  MagZ time' for k=1
 
 'AccX  AccY  AccZ  GyroX  GyroY  GyroZ  MagX  MagY  MagZ time' for k=2
@@ -46,7 +46,7 @@ sampledata : sampledata I used
 
 If you use arduino, you can copy from serial monitor, and paste it at sampledata.txt
 
-3. Edit Initializing variables.
+**3. Edit Initializing variables.**
 
 unit_transform_acc : Constant for LSB to N/m^2
 
@@ -64,7 +64,7 @@ N_R : N_R * unit_matrix for R matrix
 
 N_P : N_P * unit_matrix for P matrix
 
-4. Run
+**4. Run**
 
 If the code is slow, you can annotate out the 'Graphical Plot & Dynamic Plot'. you will see only graph.
 
