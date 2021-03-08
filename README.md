@@ -6,29 +6,29 @@ This is Kalman filter algorithm for 9-Axis IMU sensors. (Accelerometer, Gyroscop
 You can see graphically animated IMU sensor with data.
 
 
-Testing
+# Testing
 
 https://youtu.be/NHTlb84UMCk
 
-Demonstration
+# Demonstration
 
 -Will be added soon.
 
 
-$Features
+# Features
 1. Animated plot
 2. Timeline
 3. Hard-iron bias compensation
 4. Angular velocity bias compensation
 
-#Description
+# Description
 MAIN : Main code
 
 EKF : Main EKF function
 
 sampledata : sampledata I used
 
-#How to use
+# How to use
 1. Get data from IMU sensor. You should stay put IMU sensor for the first 5 seconds(It's for gyro compensation), then rotate it. I recommend you to rotate it several times. (It's good for magnetometer compensation.)
 2. The data must be 
 
