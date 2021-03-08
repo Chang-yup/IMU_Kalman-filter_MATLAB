@@ -36,8 +36,8 @@ If you use arduino, you can copy from serial monitor, and paste it at sampledata
 3. Edit Initializing variables.
 unit_transform_acc : Constant for LSB to N/m^2
 unit_transform_gyro : Constant for LSB to rad/s
-Gyro_Compen_k : 1~k'th data will be used for gyro compensation. I recommend 30
-Mag_Compen_k : 1~k'th data will be used for magnetometer compensation. I recommend Nsamples
+Gyro_Compen_k : 1\~k'th data will be used for gyro compensation. I recommend 30
+Mag_Compen_k : 1\~k'th data will be used for magnetometer compensation. I recommend Nsamples
 ref_mag : ref_mag'th data will be reference for psi. I recommend below 30
 N_Q : N_Q * unit_matrix for Q matrix
 N_R : N_R * unit_matrix for Q matrix
