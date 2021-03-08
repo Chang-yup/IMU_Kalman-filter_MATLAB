@@ -47,6 +47,7 @@ sampledata : sampledata I used
 If you use arduino, you can copy from serial monitor, and paste it at sampledata.txt
 
 3. Edit Initializing variables.
+
 unit_transform_acc : Constant for LSB to N/m^2
 
 unit_transform_gyro : Constant for LSB to rad/s
