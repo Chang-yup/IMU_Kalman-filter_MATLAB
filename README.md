@@ -35,8 +35,7 @@ You should stay put IMU sensor for the first 5 seconds(It's for gyro compensatio
 
 I recommend you to rotate it several times. (It's good for magnetometer compensation.)
 
-
-**2. The data must look like this ↓ **
+**2. The data must look like this. ↓**
 
 
 'AccX  AccY  AccZ  GyroX  GyroY  GyroZ  MagX  MagY  MagZ time' for k=1
