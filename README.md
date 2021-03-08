@@ -29,9 +29,15 @@ EKF : Main EKF function
 sampledata : sampledata I used
 
 # How to use
-**1. Get data from IMU sensor. You should stay put IMU sensor for the first 5 seconds(It's for gyro compensation), then rotate it. I recommend you to rotate it several times. (It's good for magnetometer compensation.)
-2. The data must be 
-**
+**1. Get data from IMU sensor.** 
+
+You should stay put IMU sensor for the first 5 seconds(It's for gyro compensation), then rotate it. 
+
+I recommend you to rotate it several times. (It's good for magnetometer compensation.)
+
+
+**2. The data must look like this ↓ **
+
 'AccX  AccY  AccZ  GyroX  GyroY  GyroZ  MagX  MagY  MagZ time' for k=1
 
 'AccX  AccY  AccZ  GyroX  GyroY  GyroZ  MagX  MagY  MagZ time' for k=2
