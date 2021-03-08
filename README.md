@@ -20,6 +20,7 @@ https://youtu.be/NHTlb84UMCk
 2. Timeline
 3. Hard-iron bias compensation
 4. Angular velocity bias compensation
+5. EKF based on quarternion dynamics
 
 # Description
 MAIN : Main code
