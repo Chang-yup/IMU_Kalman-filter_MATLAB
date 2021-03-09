@@ -35,9 +35,9 @@ mpu9250: If you use mpu9250 and arduino, you can get your sampledata by uploadin
 # How to use
 **1. Get data from IMU sensor.** 
 
-You should stay put IMU sensor for the first 5 seconds(It's for gyro compensation), then rotate it. 
+You should stay put IMU sensor for the first 2~3 seconds(until Gyro_Compen_k, It's for gyro compensation), then rotate it. 
 
-I recommend you to rotate it several times. (It's good for magnetometer compensation.)
+I recommend you to rotate it several times, different directions. (It's good for magnetometer compensation.)
 
 **2. The data must look like this ↓**
 
