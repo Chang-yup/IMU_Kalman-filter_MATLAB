@@ -75,6 +75,12 @@ N_P : N_P * unit_matrix for P matrix
 
 If the code is slow, you can annotate out the 'Graphical Plot & Dynamic Plot'. you will see only graph.
 
+# Reference
+https://github.com/pronenewbits/Arduino_AHRS_System
+
+칼만 필터는 어렵지 않아 with MATLAB Examples - 김성필 (Steady seller about Kalman filter written 
+
+
 # Closing
 If you have better idea or find error, please let me know.
 
