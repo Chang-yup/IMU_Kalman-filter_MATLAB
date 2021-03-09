@@ -58,7 +58,7 @@ If you use arduino, you can copy from serial monitor, and paste it at sampledata
 
 **3. Edit Initializing variables.**
 
-unit_transform_acc : Converting constant for LSB to N/m^2 (I call the raw data's unit as LSB, It could be wrong. The important thing is that you should convert imu raw data's units to SI units.)
+unit_transform_acc : Converting constant for LSB to N/m^2 (I call the raw data's unit as LSB, It could be wrong. The important thing is that you should convert raw data units to SI units.)
 
 unit_transform_gyro : Converting constant for LSB to rad/s
 
