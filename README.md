@@ -29,6 +29,9 @@ EKF : Main EKF function
 
 sampledata : sampledata I used
 
+mpu9250: If you use mpu9250 and arduino, you can get your sample by uploading this file to your arduino. I edited this code from http://arduinolearning.com/code/arduino-mpu-9250-example.php
+
+
 # How to use
 **1. Get data from IMU sensor.** 
 
