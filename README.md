@@ -80,7 +80,8 @@ If the code is slow, you can annotate out the 'Graphical Plot & Dynamic Plot'. y
 
 # Reference
 https://github.com/pronenewbits/Arduino_AHRS_System
-
+http://arduinolearning.com/code/arduino-mpu-9250-example.php
+MPU-9250 Datasheet & Register map
 칼만 필터는 어렵지 않아 with MATLAB Examples - 김성필 (Steady seller about Kalman filter written in Korean)
 
 
