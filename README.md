@@ -1,5 +1,5 @@
 # IMU_Kalman-filter_MATLAB
-Kalman filter for (9-Axis) IMU data on MATLAB
+Attitude estimation and animated plot using MATLAB Extend Kalman Filter with MPU9250 (9-Axis IMU)
 
 This is Kalman filter algorithm for 9-Axis IMU sensors. (Accelerometer, Gyroscope, Magnetometer)
 
