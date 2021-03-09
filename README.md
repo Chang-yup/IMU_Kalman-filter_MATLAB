@@ -55,9 +55,9 @@ If you use arduino, you can copy from serial monitor, and paste it at sampledata
 
 **3. Edit Initializing variables.**
 
-unit_transform_acc : Constant for LSB to N/m^2
+unit_transform_acc : Converting constant for LSB to N/m^2
 
-unit_transform_gyro : Constant for LSB to rad/s
+unit_transform_gyro : Converting constant for LSB to rad/s
 
 Gyro_Compen_k : 1\~k'th data will be used for gyro compensation. I recommend 30
 
