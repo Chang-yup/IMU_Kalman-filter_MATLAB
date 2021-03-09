@@ -1,5 +1,5 @@
 # IMU_Kalman-filter_MATLAB
-Kalman filtering (9-Axis) IMU data with MATLAB
+Kalman filter for (9-Axis) IMU data on MATLAB
 
 This is Kalman filter algorithm for 9-Axis IMU sensors. (Accelerometer, Gyroscope, Magnetometer)
 
