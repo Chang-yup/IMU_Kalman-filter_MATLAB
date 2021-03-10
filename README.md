@@ -6,9 +6,6 @@ This is a Kalman filter algorithm for 9-Axis IMU sensors. (Accelerometer, Gyrosc
 You can see graphically animated IMU sensor with data.
 
 
-# Testing
-
-https://youtu.be/NHTlb84UMCk
 
 # Demonstration
 
