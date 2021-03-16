@@ -9,7 +9,7 @@ You can see graphically animated IMU sensor with data.
 
 # Demonstration
 
--Will be added soon.
+https://youtu.be/NHTlb84UMCk
 
 
 # Features
