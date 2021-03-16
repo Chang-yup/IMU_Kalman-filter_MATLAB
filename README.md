@@ -73,7 +73,7 @@ N_P : N_P * unit_matrix for P matrix
 
 **4. Run**
 
-If the code is slow, you can annotate out the 'Graphical Plot & Dynamic Plot'. you will see only graph.
+If the code is slow, you can comment out the 'Graphical Plot & Dynamic Plot'. you will see only graph.
 
 # Reference
 https://github.com/pronenewbits/Arduino_AHRS_System
